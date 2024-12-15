@@ -34,38 +34,7 @@ public class Pelota : MonoBehaviour
             direccion = new Vector2(direccion.x, -direccion.y);
         }
 
-        if (collision.gameObject.tag == "Bloques 1")
-        {
-            Vector2 dir = transform.position - collision.transform.position;
-            dir.Normalize();
-            direccion = dir;
-        }
-
-        if (collision.gameObject.tag == "Bloques 2")
-        {
-            Vector2 dir = transform.position - collision.transform.position;
-            dir.Normalize();
-            direccion = dir;
-        }
-        if (collision.gameObject.tag == "Bloques 3")
-        {
-            Vector2 dir = transform.position - collision.transform.position;
-            dir.Normalize();
-            direccion = dir;
-        }
-        if (collision.gameObject.tag == "Bloques 4")
-        {
-            Vector2 dir = transform.position - collision.transform.position;
-            dir.Normalize();
-            direccion = dir;
-        }
-        if (collision.gameObject.tag == "Bloques 5")
-        {
-            Vector2 dir = transform.position - collision.transform.position;
-            dir.Normalize();
-            direccion = dir;
-        }
-        if (collision.gameObject.tag == "Bloques 6")
+        if (collision.gameObject.tag == "Bloques")
         {
             Vector2 dir = transform.position - collision.transform.position;
             dir.Normalize();

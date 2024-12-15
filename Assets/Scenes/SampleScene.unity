@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 26058228}
   m_Layer: 0
   m_Name: Square (11)
-  m_TagString: Bloques 3
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -277,7 +277,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &44287357
 GameObject:
   m_ObjectHideFlags: 0
@@ -292,7 +292,7 @@ GameObject:
   - component: {fileID: 44287361}
   m_Layer: 0
   m_Name: Square (10)
-  m_TagString: Bloques 2
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -432,7 +432,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &93551495
 GameObject:
   m_ObjectHideFlags: 0
@@ -447,7 +447,7 @@ GameObject:
   - component: {fileID: 93551499}
   m_Layer: 0
   m_Name: Square (35)
-  m_TagString: Bloques 1
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -587,7 +587,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 1
 --- !u!1 &105529557
 GameObject:
   m_ObjectHideFlags: 0
@@ -732,7 +732,7 @@ GameObject:
   - component: {fileID: 151390249}
   m_Layer: 0
   m_Name: Square (43)
-  m_TagString: Bloques 4
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -872,7 +872,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &193365902
 GameObject:
   m_ObjectHideFlags: 0
@@ -887,7 +887,7 @@ GameObject:
   - component: {fileID: 193365906}
   m_Layer: 0
   m_Name: Square (26)
-  m_TagString: Bloques 5
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1027,7 +1027,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &194934022
 GameObject:
   m_ObjectHideFlags: 0
@@ -1172,7 +1172,7 @@ GameObject:
   - component: {fileID: 241498780}
   m_Layer: 0
   m_Name: Square (31)
-  m_TagString: Bloques 6
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1312,7 +1312,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &265783648
 GameObject:
   m_ObjectHideFlags: 0
@@ -1324,7 +1324,6 @@ GameObject:
   - component: {fileID: 265783649}
   - component: {fileID: 265783652}
   - component: {fileID: 265783651}
-  - component: {fileID: 265783653}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -1372,7 +1371,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Puntuaci\xF3n: 0"
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1399,7 +1398,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 41.65
+  m_fontSize: 36
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1449,19 +1448,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 265783648}
   m_CullTransparentMesh: 1
---- !u!114 &265783653
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 265783648}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 33cb796384f51654eab2020ad0fa69d5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  textoPuntaje: {fileID: 0}
 --- !u!1 &297543938
 GameObject:
   m_ObjectHideFlags: 0
@@ -1476,7 +1462,7 @@ GameObject:
   - component: {fileID: 297543942}
   m_Layer: 0
   m_Name: Square (9)
-  m_TagString: Bloques 2
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1616,7 +1602,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &433941651
 GameObject:
   m_ObjectHideFlags: 0
@@ -1631,7 +1617,7 @@ GameObject:
   - component: {fileID: 433941655}
   m_Layer: 0
   m_Name: Square (39)
-  m_TagString: Bloques 1
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1771,7 +1757,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 1
 --- !u!1 &481921405
 GameObject:
   m_ObjectHideFlags: 0
@@ -1786,7 +1772,7 @@ GameObject:
   - component: {fileID: 481921407}
   m_Layer: 0
   m_Name: Square (47)
-  m_TagString: Bloques 2
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1829,7 +1815,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!61 &481921408
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1941,7 +1927,7 @@ GameObject:
   - component: {fileID: 507751901}
   m_Layer: 0
   m_Name: Square (14)
-  m_TagString: Bloques 3
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2081,7 +2067,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -2188,7 +2174,7 @@ GameObject:
   - component: {fileID: 642759268}
   m_Layer: 0
   m_Name: Square (18)
-  m_TagString: Bloques 4
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2328,7 +2314,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &654638861
 GameObject:
   m_ObjectHideFlags: 0
@@ -2452,7 +2438,7 @@ GameObject:
   - component: {fileID: 687828549}
   m_Layer: 0
   m_Name: Square (37)
-  m_TagString: Bloques 1
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2592,7 +2578,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 1
 --- !u!1 &691891131
 GameObject:
   m_ObjectHideFlags: 0
@@ -2607,7 +2593,7 @@ GameObject:
   - component: {fileID: 691891135}
   m_Layer: 0
   m_Name: Square (30)
-  m_TagString: Bloques 6
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2747,7 +2733,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &714014723
 GameObject:
   m_ObjectHideFlags: 0
@@ -2762,7 +2748,7 @@ GameObject:
   - component: {fileID: 714014727}
   m_Layer: 0
   m_Name: Square (38)
-  m_TagString: Bloques 1
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2902,7 +2888,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 1
 --- !u!1 &738239564
 GameObject:
   m_ObjectHideFlags: 0
@@ -2917,7 +2903,7 @@ GameObject:
   - component: {fileID: 738239568}
   m_Layer: 0
   m_Name: Square (6)
-  m_TagString: Bloques 2
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3057,7 +3043,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &743303186
 GameObject:
   m_ObjectHideFlags: 0
@@ -3234,7 +3220,7 @@ GameObject:
   - component: {fileID: 806623010}
   m_Layer: 0
   m_Name: Square (7)
-  m_TagString: Bloques 2
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3374,7 +3360,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &862637463
 GameObject:
   m_ObjectHideFlags: 0
@@ -3389,7 +3375,7 @@ GameObject:
   - component: {fileID: 862637467}
   m_Layer: 0
   m_Name: Square (20)
-  m_TagString: Bloques 4
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3529,7 +3515,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &881662745
 GameObject:
   m_ObjectHideFlags: 0
@@ -3544,7 +3530,7 @@ GameObject:
   - component: {fileID: 881662749}
   m_Layer: 0
   m_Name: Square (17)
-  m_TagString: Bloques 4
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3684,7 +3670,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &905501550
 GameObject:
   m_ObjectHideFlags: 0
@@ -3699,7 +3685,7 @@ GameObject:
   - component: {fileID: 905501554}
   m_Layer: 0
   m_Name: Square (24)
-  m_TagString: Bloques 5
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3839,7 +3825,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &999512808
 GameObject:
   m_ObjectHideFlags: 0
@@ -3854,7 +3840,7 @@ GameObject:
   - component: {fileID: 999512812}
   m_Layer: 0
   m_Name: Square (25)
-  m_TagString: Bloques 5
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3994,7 +3980,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1064657277
 GameObject:
   m_ObjectHideFlags: 0
@@ -4009,7 +3995,7 @@ GameObject:
   - component: {fileID: 1064657281}
   m_Layer: 0
   m_Name: Square (19)
-  m_TagString: Bloques 4
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4149,7 +4135,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1077562709
 GameObject:
   m_ObjectHideFlags: 0
@@ -4164,7 +4150,7 @@ GameObject:
   - component: {fileID: 1077562713}
   m_Layer: 0
   m_Name: Square (21)
-  m_TagString: Bloques 4
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4304,7 +4290,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1086902332
 GameObject:
   m_ObjectHideFlags: 0
@@ -4449,7 +4435,7 @@ GameObject:
   - component: {fileID: 1112156383}
   m_Layer: 0
   m_Name: Square (13)
-  m_TagString: Bloques 3
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4589,7 +4575,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1157927843
 GameObject:
   m_ObjectHideFlags: 0
@@ -4604,7 +4590,7 @@ GameObject:
   - component: {fileID: 1157927847}
   m_Layer: 0
   m_Name: Square (15)
-  m_TagString: Bloques 3
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4744,7 +4730,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1158507505
 GameObject:
   m_ObjectHideFlags: 0
@@ -4889,7 +4875,7 @@ GameObject:
   - component: {fileID: 1168333682}
   m_Layer: 0
   m_Name: Square (40)
-  m_TagString: Bloques 1
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5029,7 +5015,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 1
 --- !u!1 &1227120034
 GameObject:
   m_ObjectHideFlags: 0
@@ -5044,7 +5030,7 @@ GameObject:
   - component: {fileID: 1227120038}
   m_Layer: 0
   m_Name: Square (27)
-  m_TagString: Bloques 5
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5184,7 +5170,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1275711098
 GameObject:
   m_ObjectHideFlags: 0
@@ -5302,7 +5288,7 @@ GameObject:
   - component: {fileID: 1280356806}
   m_Layer: 0
   m_Name: Square (33)
-  m_TagString: Bloques 6
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5442,7 +5428,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1313441923
 GameObject:
   m_ObjectHideFlags: 0
@@ -5457,7 +5443,7 @@ GameObject:
   - component: {fileID: 1313441927}
   m_Layer: 0
   m_Name: Square (5)
-  m_TagString: Bloques 2
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5597,7 +5583,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1374580330
 GameObject:
   m_ObjectHideFlags: 0
@@ -5612,7 +5598,7 @@ GameObject:
   - component: {fileID: 1374580334}
   m_Layer: 0
   m_Name: Square (16)
-  m_TagString: Bloques 3
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5752,7 +5738,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1570464576
 GameObject:
   m_ObjectHideFlags: 0
@@ -5767,7 +5753,7 @@ GameObject:
   - component: {fileID: 1570464580}
   m_Layer: 0
   m_Name: Square (8)
-  m_TagString: Bloques 2
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5907,7 +5893,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1582975294
 GameObject:
   m_ObjectHideFlags: 0
@@ -5922,7 +5908,7 @@ GameObject:
   - component: {fileID: 1582975298}
   m_Layer: 0
   m_Name: Square (23)
-  m_TagString: Bloques 5
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6062,7 +6048,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1585269188
 GameObject:
   m_ObjectHideFlags: 0
@@ -6145,7 +6131,7 @@ GameObject:
   - component: {fileID: 1614662411}
   m_Layer: 0
   m_Name: Square (28)
-  m_TagString: Bloques 5
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6285,7 +6271,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1621758463
 GameObject:
   m_ObjectHideFlags: 0
@@ -6300,7 +6286,7 @@ GameObject:
   - component: {fileID: 1621758467}
   m_Layer: 0
   m_Name: Square (29)
-  m_TagString: Bloques 6
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6440,7 +6426,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1626702790
 GameObject:
   m_ObjectHideFlags: 0
@@ -6455,7 +6441,7 @@ GameObject:
   - component: {fileID: 1626702794}
   m_Layer: 0
   m_Name: Square (12)
-  m_TagString: Bloques 3
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6595,7 +6581,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1633623948
 GameObject:
   m_ObjectHideFlags: 0
@@ -6610,7 +6596,7 @@ GameObject:
   - component: {fileID: 1633623952}
   m_Layer: 0
   m_Name: Square (22)
-  m_TagString: Bloques 4
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6750,7 +6736,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1793089649
 GameObject:
   m_ObjectHideFlags: 0
@@ -6765,7 +6751,7 @@ GameObject:
   - component: {fileID: 1793089653}
   m_Layer: 0
   m_Name: Square (41)
-  m_TagString: Bloques 2
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6905,7 +6891,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1883960977
 GameObject:
   m_ObjectHideFlags: 0
@@ -6920,7 +6906,7 @@ GameObject:
   - component: {fileID: 1883960981}
   m_Layer: 0
   m_Name: Square (34)
-  m_TagString: Bloques 6
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7060,7 +7046,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &1964941612
 GameObject:
   m_ObjectHideFlags: 0
@@ -7075,7 +7061,7 @@ GameObject:
   - component: {fileID: 1964941616}
   m_Layer: 0
   m_Name: Square (32)
-  m_TagString: Bloques 6
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7215,7 +7201,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &2010658843
 GameObject:
   m_ObjectHideFlags: 0
@@ -7230,7 +7216,7 @@ GameObject:
   - component: {fileID: 2010658847}
   m_Layer: 0
   m_Name: Square (36)
-  m_TagString: Bloques 1
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7370,7 +7356,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 1
 --- !u!1 &2037069817
 GameObject:
   m_ObjectHideFlags: 0
@@ -7385,7 +7371,7 @@ GameObject:
   - component: {fileID: 2037069821}
   m_Layer: 0
   m_Name: Square (44)
-  m_TagString: Bloques 5
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7525,7 +7511,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &2078401062
 GameObject:
   m_ObjectHideFlags: 0
@@ -7540,7 +7526,7 @@ GameObject:
   - component: {fileID: 2078401066}
   m_Layer: 0
   m_Name: Square (46)
-  m_TagString: Bloques 1
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7680,7 +7666,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 1
 --- !u!1 &2105682929
 GameObject:
   m_ObjectHideFlags: 0
@@ -7695,7 +7681,7 @@ GameObject:
   - component: {fileID: 2105682933}
   m_Layer: 0
   m_Name: Square (42)
-  m_TagString: Bloques 3
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7835,7 +7821,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1 &2126330113
 GameObject:
   m_ObjectHideFlags: 0
@@ -7850,7 +7836,7 @@ GameObject:
   - component: {fileID: 2126330117}
   m_Layer: 0
   m_Name: Square (45)
-  m_TagString: Bloques 6
+  m_TagString: Bloques
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7990,7 +7976,7 @@ MonoBehaviour:
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
   - {fileID: 6732348463664271021, guid: d7de32e242acc944fb4e2e1467959cef, type: 3}
-  puntaje: {fileID: 0}
+  Puntos: 0
 --- !u!1001 &1817076120353352942
 PrefabInstance:
   m_ObjectHideFlags: 0
